@@ -1,5 +1,3 @@
-📄 README.md (Task 2 – To-Do List Application)
-
 # ✅ To-Do List Application (Console-Based)
 
 This project is created for **Python Developer Internship – Task 2 (Elevate Labs)**.  
@@ -24,7 +22,10 @@ It is a console-based To-Do List Manager with persistent storage, modern Python 
 
 ## 📁 Project Structure
 
-todo-app/ │ ├── todo.py          # Main application script ├── tasks.json       # Task storage file └── README.md        # Project documentation
+todo-app/ │ ├── todo.py          
+# Main application script ├── tasks.json      
+# Task storage file └── README.md        
+# Project documentation
 
 
 ## ⚙️ Installation Steps
