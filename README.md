@@ -15,7 +15,6 @@ It is a console-based To-Do List Manager with persistent storage, modern Python 
 
 ## 🧠 Technologies Used
 - Python 3  
-- JSON (file-based database)  
 - Functions & modular code  
 - Colorama (for styled CLI output)
 
@@ -34,12 +33,6 @@ todo-app/ │ ├── todo.py
 ```bash
 git clone https://github.com/<your-username>/todo-app.git
 cd todo-app
-
-2️⃣ Install Required Package
-
-pip install colorama
-
-(Colorama is optional but makes the interface attractive.)
 
 
 ▶️ Run the App
